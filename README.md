@@ -1,4 +1,4 @@
-# Project 3
+# Project 3 :- Law and Justice
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -18,6 +18,6 @@
 
 ### Project Link : [Link](https://law-and-justice.netlify.app/)
 
-### Screenshot
+### Screenshot :
 
 ![](./screenshot/Proj3.png)
