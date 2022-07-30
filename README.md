@@ -1,4 +1,4 @@
-# Assignment 1
+# Project 3
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 3 
 
 ### What I Learned from this Project?
 
@@ -16,6 +15,8 @@
 - Learnd to use css position [Relative & Absolute] property.
 
 ### This project took around 2 hours to complete.
+
+### Project Link : [Link](https://law-and-justice.netlify.app/)
 
 ### Screenshot
 
