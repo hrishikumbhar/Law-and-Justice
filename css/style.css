@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 62.5%;
+    color: #fff;
+    background-image: url('../images/hamber.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    width: 100vw;
+    margin: auto;
+    background-color: #322d22;
+}
+
+/************************* Header Section ******************************/
+
+header{
+    width: 80vw;
+    margin: auto;
+}
+
+nav.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8rem;
+}
+
+.logo{
+    height: 2.3rem;
+    margin-right: auto;
+}
+
+.nav_list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    margin-right: 1.4rem;
+}
+
+.nav_list_item{
+    font-size: 1rem;
+    font-weight: 400;
+    margin-right: 1rem;
+    color: rgb( 121, 119, 119);
+}
+
+.nav_list_item:first-child{
+    font-weight: 700;
+    color: #fff;
+}
+
+.nav_btn{
+    text-decoration: none;
+    font-size: 1rem;
+    padding: .4rem .9rem;
+    color: #A77B06;
+    border: 1px solid #A77B06;
+    border-radius: 8px;
+}
+
+/****************************** Hero section ******************************************/
+
+main{
+    width: 80vw;
+    margin: auto;
+    padding-bottom: 4rem;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 4rem;
+}
+
+.hero_left{
+    width: 100%;
+}
+
+.hero_left_heading{
+    font-size: 4.5rem;
+    font-weight: 700;
+}
+
+.hero_right{
+    padding: 2rem 3rem;
+    width: 50%;
+}
+
+.hero_right_text{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb( 121, 119, 119);
+    line-height: 1.5;
+}
